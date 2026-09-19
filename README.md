@@ -1,5 +1,5 @@
 # techx.ceuma
-mano da uma humanizada aqui 1 - Sobre o projeto
+ 1 - Sobre o projeto
 Nosso projeto consiste no desenvolvimento de um site para ajudar pessoas que realizam compras pela internet e querem ter mais segurança durante esse processo. A plataforma também oferece um suporte para facilitar denúncias de possíveis golpes de forma rápida e simples.
 
 2 - Problema
